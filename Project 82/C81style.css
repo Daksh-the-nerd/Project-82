@@ -1,0 +1,25 @@
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image: url("bg1.jpg");
+	background-position: center;
+	background-size: cover;
+}
+
+#my_canvas{
+border:solid 10px orange ;
+background-color: white;
+
+}
+ #clear
+ {
+	 background-color: green;
+	 color:white;
+	 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	 font-size: larger;
+	 height: 100px;
+	 width: 200px;
+	}
